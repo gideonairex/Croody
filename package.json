@@ -1,0 +1,31 @@
+{
+  "name": "Croody",
+  "version": "1.0.0",
+  "description": "The martian robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gideonairex/Croody.git"
+  },
+  "keywords": [
+    "martian",
+    "robot"
+  ],
+  "author": "Gideon Rosales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gideonairex/Croody/issues"
+  },
+  "homepage": "https://github.com/gideonairex/Croody",
+  "devDependencies": {
+    "code": "^1.3.0",
+    "lab": "^5.2.1"
+  },
+  "dependencies": {
+    "inquirer": "^0.8.0",
+    "lodash": "^3.1.0"
+  }
+}
